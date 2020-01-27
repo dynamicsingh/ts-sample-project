@@ -939,6 +939,12 @@
   version "10.1.0"
   resolved "http://localhost:4873/@csstools%2fnormalize.css/-/normalize.css-10.1.0.tgz#f0950bba18819512d42f7197e56c518aa491cf18"
 
+"@dynamicsingh/reactpack1@1.0.4":
+  version "1.0.4"
+  resolved "https://npm.pkg.github.com/download/@dynamicsingh/reactpack1/1.0.4/1a1f441d79eb75f01de7074d4159cfef35b0bcca4b90ae4a202d3e79a900cc42#f04ad1c85138ff8e720b10ac6b15953496796473"
+  dependencies:
+    prop-types "^15.7.2"
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "http://localhost:4873/@hapi%2faddress/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
