@@ -939,9 +939,10 @@
   version "10.1.0"
   resolved "http://localhost:4873/@csstools%2fnormalize.css/-/normalize.css-10.1.0.tgz#f0950bba18819512d42f7197e56c518aa491cf18"
 
-"@dynamicsingh/reactpack1@1.0.4":
-  version "1.0.4"
-  resolved "https://npm.pkg.github.com/download/@dynamicsingh/reactpack1/1.0.4/1a1f441d79eb75f01de7074d4159cfef35b0bcca4b90ae4a202d3e79a900cc42#f04ad1c85138ff8e720b10ac6b15953496796473"
+"@dynamicsingh/reactpack1@1.0.8":
+  version "1.0.8"
+  resolved "https://npm.pkg.github.com/download/@dynamicsingh/reactpack1/1.0.8/0f87c8e6baa42747f60abb16c8ed3f707251ce478d873a78aa0c12136da6f793#5c1df6aa92126a50660ba35583d9b4c459141b35"
+  integrity sha512-M1CVVur+ypsstNF6sjxtgOWxEDH6d2kdU8zBBSZ3Wb1cWYmf/9J7bzCCDxw0y01S1VCYtpKZr/KXNunscos8aA==
   dependencies:
     prop-types "^15.7.2"
 
